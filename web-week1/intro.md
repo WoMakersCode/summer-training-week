@@ -4,11 +4,11 @@ Esta semana vamos descobrir o "mistério" por trás da Internet. O que acontece 
 
 * Introdução: Como funciona um browser.
 
+* O que é o HTML5 e as TAGs.
+
 * Ferramentas para desenvolvedores
 
 * Editores de código (Atom, Sublime, Visual Studio Code e outros); Browsers; Github e Documentação.
-
-* O que é o HTML5 e as TAGs.
 
 * Criando uma página web: estrutura, semântica e elementos (TAGs).
 
