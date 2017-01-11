@@ -13,3 +13,9 @@ Esta semana vamos descobrir o "mistério" por trás da Internet. O que acontece 
 * Criando uma página web: estrutura, semântica e elementos (TAGs).
 
 * Exercícios no Github
+
+Arquivo HTML:
+https://goo.gl/EnfqWf
+
+Arquivo CSS:
+https://goo.gl/vBjT5A
