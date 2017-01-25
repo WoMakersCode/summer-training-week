@@ -13,3 +13,7 @@ Material de treinamentos online #WMC2K17
 * [Git e Github, por Romeu Mattos](https://docs.google.com/presentation/d/1yjcBS2kLQxYUR-APS6DEKeK-dK_c9K484XhQVFkTPRY/edit#slide=id.g1207d9b584_0_50)
 
 * [Workshop: criação de sites estáticos com Jekyll](https://docs.google.com/presentation/d/1WfUjjcQQlZ2hm39zc76w9NrAOranyMKNbs5rIeiWXyQ/edit?usp=sharing)
+
+* [Um estudo sobre frameworks e desenvolvimento de aplicações web com Python](http://www.slideshare.net/cynthiazanoni/um-estudo-sobre-frameworks-e-desenvolvimento-de-aplicaes-web-com-python)
+
+* [Workshop: Flask para iniciantes](http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
