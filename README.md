@@ -19,3 +19,5 @@ Material de treinamentos online #WMC2K17
 * [Um estudo sobre frameworks e desenvolvimento de aplicações web com Python](http://www.slideshare.net/cynthiazanoni/um-estudo-sobre-frameworks-e-desenvolvimento-de-aplicaes-web-com-python)
 
 * [Workshop: Flask para iniciantes](http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
+
+* [Usabilidade e Arquitetura de Informação na Web](https://docs.google.com/presentation/d/12mOQwzkyzfnluVUOpFLlR4oWuurTmqCh7RBmCprdVC4/edit#slide=id.p36)
