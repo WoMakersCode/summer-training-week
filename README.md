@@ -8,6 +8,8 @@ Material de treinamentos online #WMC2K17
 
 * [Code Standard com CSS](http://www.slideshare.net/cynthiazanoni/code-standard-escrevendo-css-com-estilo?next_slideshow=1)
 
+* [Workshop: E-mail Marketing - da construção aos testes, por Luiza Haas](https://docs.google.com/presentation/d/1gsVsARfxhqYGs95oMwExt38rdMlOab1Sz-MEHEkQpvE/edit?usp=sharing)
+
 * [Javascript básico](https://docs.google.com/presentation/d/1AKoviJj2B_L23ORAUolBLjW9cr5Y3oAFQqc2WCtmNh4/edit?usp=sharing)
 
 * [Git e Github, por Romeu Mattos](https://docs.google.com/presentation/d/1yjcBS2kLQxYUR-APS6DEKeK-dK_c9K484XhQVFkTPRY/edit#slide=id.g1207d9b584_0_50)
