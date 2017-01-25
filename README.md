@@ -21,3 +21,7 @@ Material de treinamentos online #WMC2K17
 * [Workshop: Flask para iniciantes](http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
 
 * [Usabilidade e Arquitetura de Informação na Web](https://docs.google.com/presentation/d/12mOQwzkyzfnluVUOpFLlR4oWuurTmqCh7RBmCprdVC4/edit#slide=id.p36)
+
+* [Tendências de Design Mobile](https://docs.google.com/presentation/d/1n9LU7FPiRFXKFfc1b7xMUT7PXxoMIkDVXOsf_Fg6Ab4/edit#slide=id.p)
+
+* [Workshop: Interface e experiência de usuário para mobile](https://docs.google.com/presentation/d/1t1YhCJH6kl1yno-w5b85j0ieoDzfyqMpmouUhyvlVTk/edit#slide=id.p13)
